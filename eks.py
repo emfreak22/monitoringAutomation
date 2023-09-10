@@ -29,6 +29,7 @@ deployment = client.V1Deployment(
                 ]
             )
         )
+        
     )
 )
 
